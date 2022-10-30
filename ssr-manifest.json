@@ -164,7 +164,7 @@
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/logo_blanc.11f76fd0.png"
   ],
-  "src/pages/index.vue?vue&type=style&index=0&scoped=ec86770a&lang.css": [
+  "src/pages/index.vue?vue&type=style&index=0&scoped=0c30b57e&lang.css": [
     "/assets/logo_blanc.11f76fd0.png"
   ],
   "src/pages/index.vue": [
@@ -188,7 +188,7 @@
   "index.html": [
     "/assets/logo_blanc.11f76fd0.png"
   ],
-  "assets/app.2d6ca54b.js-unocss-hash.css": [
+  "assets/app.8dbc5714.js-unocss-hash.css": [
     "/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
@@ -198,151 +198,151 @@
     "/assets/virtual_pwa-register.b65913a8.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.2efd8a46.js"
+    "/assets/404.49104033.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.2efd8a46.js"
+    "/assets/404.49104033.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.eb7fc14f.js"
+    "/assets/home.add95c76.js"
   ],
   "src/pages/README.md": [
-    "/assets/README.46d3c059.js"
+    "/assets/README.dff8099f.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_.ca7aff1c.js"
+    "/assets/_...all_.688d64d9.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_.ca7aff1c.js"
+    "/assets/_...all_.688d64d9.js"
   ],
   "../../../../../../@vite-plugin-pages/route-block": [
     "/assets/route-block.011d1056.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.310bbd04.js"
+    "/assets/about.b95e3e72.js"
   ],
   "src/pages/bar.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/bar.63044f31.js",
+    "/assets/bar.14e0f331.js",
     "/assets/bar.ccc048ca.css"
   ],
   "src/pages/bar.vue?vue&type=style&index=0&scoped=483d2eeb&lang.css": [
-    "/assets/bar.63044f31.js",
+    "/assets/bar.14e0f331.js",
     "/assets/bar.ccc048ca.css"
   ],
   "src/pages/bar.vue": [
-    "/assets/bar.63044f31.js",
+    "/assets/bar.14e0f331.js",
     "/assets/bar.ccc048ca.css"
   ],
   "src/components/FullscreenModal.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/FullscreenModal.vue_vue_type_script_setup_true_lang.b42d50f6.js"
+    "/assets/FullscreenModal.vue_vue_type_script_setup_true_lang.2c2f6764.js"
   ],
   "src/components/AmountToSendField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/vue-scrollto.c72a1989.js"
+    "/assets/vue-scrollto.33d97777.js"
   ],
   "\u0000/home/alex/documents/load/load-mvp/frontend/node_modules/.pnpm/vue-scrollto@2.20.0/node_modules/vue-scrollto/vue-scrollto.js?commonjs-module": [
-    "/assets/vue-scrollto.c72a1989.js"
+    "/assets/vue-scrollto.33d97777.js"
   ],
   "node_modules/.pnpm/vue-scrollto@2.20.0/node_modules/vue-scrollto/vue-scrollto.js": [
-    "/assets/vue-scrollto.c72a1989.js"
+    "/assets/vue-scrollto.33d97777.js"
   ],
   "src/components/RealNameField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/profile.6e440a5b.js",
+    "/assets/profile.64fcfa54.js",
     "/assets/profile.a2f8b2c4.css"
   ],
   "src/components/IbanField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/profile.6e440a5b.js",
+    "/assets/profile.64fcfa54.js",
     "/assets/profile.a2f8b2c4.css"
   ],
   "src/pages/profile.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/profile.6e440a5b.js",
+    "/assets/profile.64fcfa54.js",
     "/assets/profile.a2f8b2c4.css"
   ],
   "src/pages/profile.vue?vue&type=style&index=0&scoped=da01767e&lang.css": [
-    "/assets/profile.6e440a5b.js",
+    "/assets/profile.64fcfa54.js",
     "/assets/profile.a2f8b2c4.css"
   ],
   "src/pages/profile.vue": [
-    "/assets/profile.6e440a5b.js",
+    "/assets/profile.64fcfa54.js",
     "/assets/profile.a2f8b2c4.css"
   ],
   "src/components/PasswordField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/NameField.vue_vue_type_script_setup_true_lang.a0ef9520.js"
+    "/assets/NameField.vue_vue_type_script_setup_true_lang.65c3c91c.js"
   ],
   "src/components/EmailField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/NameField.vue_vue_type_script_setup_true_lang.a0ef9520.js"
+    "/assets/NameField.vue_vue_type_script_setup_true_lang.65c3c91c.js"
   ],
   "src/components/NameField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/NameField.vue_vue_type_script_setup_true_lang.a0ef9520.js"
+    "/assets/NameField.vue_vue_type_script_setup_true_lang.65c3c91c.js"
   ],
   "src/components/InputField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/InputField.vue_vue_type_script_setup_true_lang.79ab1d9f.js"
+    "/assets/InputField.vue_vue_type_script_setup_true_lang.bf009e7b.js"
   ],
   "src/pages/signup.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/signup.e778890c.js",
+    "/assets/signup.f7598718.js",
     "/assets/signup.2983ab39.css"
   ],
   "src/pages/signup.vue?vue&type=style&index=0&scoped=be78a359&lang.css": [
-    "/assets/signup.e778890c.js",
+    "/assets/signup.f7598718.js",
     "/assets/signup.2983ab39.css"
   ],
   "src/pages/signup.vue": [
-    "/assets/signup.e778890c.js",
+    "/assets/signup.f7598718.js",
     "/assets/signup.2983ab39.css"
   ],
   "src/components/TransactionRecap.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/transfers.5383c5ac.js",
+    "/assets/transfers.3d243619.js",
     "/assets/transfers.4e22d273.css"
   ],
   "src/components/SearchField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/transfers.5383c5ac.js",
+    "/assets/transfers.3d243619.js",
     "/assets/transfers.4e22d273.css"
   ],
   "src/components/UserSelectField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/transfers.5383c5ac.js",
+    "/assets/transfers.3d243619.js",
     "/assets/transfers.4e22d273.css"
   ],
   "src/components/UserSelectField.vue?vue&type=style&index=0&scoped=14661eef&lang.css": [
-    "/assets/transfers.5383c5ac.js",
+    "/assets/transfers.3d243619.js",
     "/assets/transfers.4e22d273.css"
   ],
   "src/components/UserSelectField.vue": [
-    "/assets/transfers.5383c5ac.js",
+    "/assets/transfers.3d243619.js",
     "/assets/transfers.4e22d273.css"
   ],
   "src/pages/transfers.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/transfers.5383c5ac.js",
+    "/assets/transfers.3d243619.js",
     "/assets/transfers.4e22d273.css"
   ],
   "src/pages/transfers.vue?vue&type=style&index=0&scoped=0b05ad65&lang.css": [
-    "/assets/transfers.5383c5ac.js",
+    "/assets/transfers.3d243619.js",
     "/assets/transfers.4e22d273.css"
   ],
   "src/pages/transfers.vue": [
-    "/assets/transfers.5383c5ac.js",
+    "/assets/transfers.3d243619.js",
     "/assets/transfers.4e22d273.css"
   ],
-  "src/pages/b/[braceletUUID].back.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_braceletUUID_.back.a989f1fe.js",
-    "/assets/[braceletUUID].back.7636d7e8.css"
-  ],
-  "src/pages/b/[braceletUUID].back.vue?vue&type=style&index=0&scoped=c6fe2606&lang.css": [
-    "/assets/_braceletUUID_.back.a989f1fe.js",
-    "/assets/[braceletUUID].back.7636d7e8.css"
-  ],
-  "src/pages/b/[braceletUUID].back.vue": [
-    "/assets/_braceletUUID_.back.a989f1fe.js",
-    "/assets/[braceletUUID].back.7636d7e8.css"
-  ],
   "src/pages/b/[braceletUUID].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_braceletUUID_.452e5aaa.js",
+    "/assets/_braceletUUID_.9383cdef.js",
     "/assets/[braceletUUID].bfcff2fb.css"
   ],
   "src/pages/b/[braceletUUID].vue?vue&type=style&index=0&scoped=111d0e07&lang.css": [
-    "/assets/_braceletUUID_.452e5aaa.js",
+    "/assets/_braceletUUID_.9383cdef.js",
     "/assets/[braceletUUID].bfcff2fb.css"
   ],
   "src/pages/b/[braceletUUID].vue": [
-    "/assets/_braceletUUID_.452e5aaa.js",
+    "/assets/_braceletUUID_.9383cdef.js",
     "/assets/[braceletUUID].bfcff2fb.css"
+  ],
+  "src/pages/b/grdgfrdshrfsxrfxhg.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/grdgfrdshrfsxrfxhg.f1ed5f75.js",
+    "/assets/grdgfrdshrfsxrfxhg.c5c524d6.css"
+  ],
+  "src/pages/b/grdgfrdshrfsxrfxhg.vue?vue&type=style&index=0&scoped=f25cc710&lang.css": [
+    "/assets/grdgfrdshrfsxrfxhg.f1ed5f75.js",
+    "/assets/grdgfrdshrfsxrfxhg.c5c524d6.css"
+  ],
+  "src/pages/b/grdgfrdshrfsxrfxhg.vue": [
+    "/assets/grdgfrdshrfsxrfxhg.f1ed5f75.js",
+    "/assets/grdgfrdshrfsxrfxhg.c5c524d6.css"
   ]
 }
