@@ -1,348 +1,348 @@
 {
   "vite/modulepreload-polyfill": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/ar.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/de.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/en.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/es.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/fr.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/id.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/it.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/ja.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/ko.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/pl.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/pt-BR.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/ru.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/tr.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/vi.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "locales/zh-CN.yml": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@intlify+shared@9.2.2/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@intlify+message-compiler@9.2.2/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@intlify+devtools-if@9.2.2/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@intlify+core-base@9.2.2/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@vue+shared@3.2.37/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@vue+reactivity@3.2.37/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@vue+runtime-core@3.2.37/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@vue+runtime-dom@3.2.37/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/vue-i18n@9.2.2_vue@3.2.37/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/modules/i18n.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "\u0000commonjsHelpers.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "\u0000/home/alex/documents/load/load-mvp/frontend/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/modules/nprogress.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/vue-demi@0.13.6_vue@3.2.37/node_modules/vue-demi/lib/index.mjs": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/pinia@2.0.17_j6bzmzd4ujpabbp5objtwxyjp4/node_modules/pinia/dist/pinia.esm-browser.js": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/modules/pinia.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "\u0000vite/preload-helper": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/modules/pwa.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/vue-router@4.1.3_vue@3.2.37/node_modules/vue-router/dist/vue-router.mjs": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@vueuse+head@0.7.9_vue@3.2.37/node_modules/@vueuse/head/dist/index.mjs": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/vite-ssg@0.20.2_thgl23324gg75myoeph36y4c5a/node_modules/vite-ssg/dist/chunks/state.mjs": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/vite-ssg@0.20.2_thgl23324gg75myoeph36y4c5a/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/vite-ssg@0.20.2_thgl23324gg75myoeph36y4c5a/node_modules/vite-ssg/dist/index.mjs": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@vueuse+shared@9.1.0_vue@3.2.37/node_modules/@vueuse/shared/index.mjs": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@vueuse+core@9.1.0_vue@3.2.37/node_modules/@vueuse/core/index.mjs": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/composables/dark.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/assets/img/logo_blanc.png": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/layouts/default.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "../../../../../../@vite-plugin-vue-layouts/generated-layouts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/components/DirectionLink.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
-  "src/components/DirectionLink.vue?vue&type=style&index=0&scoped=8d87362f&lang.css": [
-    "/assets/logo_blanc.11f76fd0.png"
+  "src/components/DirectionLink.vue?vue&type=style&index=0&scoped=4fb9808c&lang.css": [
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "\u0000plugin-vue:export-helper": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/components/DirectionLink.vue": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/components/Balance.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/store/user.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
-  "src/pages/index.vue?vue&type=style&index=0&scoped=0c30b57e&lang.css": [
-    "/assets/logo_blanc.11f76fd0.png"
+  "src/pages/index.vue?vue&type=style&index=0&scoped=7ebdccd7&lang.css": [
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/pages/index.vue": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "../../../../../../@vite-plugin-pages/generated-pages?id=~pages": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/@unocss+reset@0.45.8/node_modules/@unocss/reset/tailwind.css": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/styles/main.css": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "../../../../../../__uno.css": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "src/main.ts": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "index.html": [
-    "/assets/logo_blanc.11f76fd0.png"
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
-  "assets/app.f756863f.js-unocss-hash.css": [
-    "/assets/logo_blanc.11f76fd0.png"
+  "assets/app.780681c6.js-unocss-hash.css": [
+    "/load-demo2/assets/logo_blanc.11f76fd0.png"
   ],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/assets/virtual_pwa-register.b65913a8.js"
+    "/load-demo2/assets/virtual_pwa-register.93a63a47.js"
   ],
   "../../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register.b65913a8.js"
+    "/load-demo2/assets/virtual_pwa-register.93a63a47.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.5b12168e.js"
+    "/load-demo2/assets/404.8e6cd946.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.5b12168e.js"
+    "/load-demo2/assets/404.8e6cd946.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.374d7812.js"
+    "/load-demo2/assets/home.592f04b4.js"
   ],
   "src/pages/README.md": [
-    "/assets/README.26384ef8.js"
+    "/load-demo2/assets/README.601b0361.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_.1b950c4e.js"
+    "/load-demo2/assets/_...all_.9192eccc.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_.1b950c4e.js"
+    "/load-demo2/assets/_...all_.9192eccc.js"
   ],
   "../../../../../../@vite-plugin-pages/route-block": [
-    "/assets/route-block.011d1056.js"
+    "/load-demo2/assets/route-block.011d1056.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.b1be8010.js"
+    "/load-demo2/assets/about.efdb139c.js"
   ],
   "src/pages/bar.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/bar.92cc8aee.js",
-    "/assets/bar.ccc048ca.css"
+    "/load-demo2/assets/bar.158ccbcc.js",
+    "/load-demo2/assets/bar.dbd03b8b.css"
   ],
-  "src/pages/bar.vue?vue&type=style&index=0&scoped=483d2eeb&lang.css": [
-    "/assets/bar.92cc8aee.js",
-    "/assets/bar.ccc048ca.css"
+  "src/pages/bar.vue?vue&type=style&index=0&scoped=a0a66ded&lang.css": [
+    "/load-demo2/assets/bar.158ccbcc.js",
+    "/load-demo2/assets/bar.dbd03b8b.css"
   ],
   "src/pages/bar.vue": [
-    "/assets/bar.92cc8aee.js",
-    "/assets/bar.ccc048ca.css"
+    "/load-demo2/assets/bar.158ccbcc.js",
+    "/load-demo2/assets/bar.dbd03b8b.css"
   ],
   "src/components/FullscreenModal.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/FullscreenModal.vue_vue_type_script_setup_true_lang.c56a5e75.js"
+    "/load-demo2/assets/FullscreenModal.vue_vue_type_script_setup_true_lang.bf494504.js"
   ],
   "src/components/AmountToSendField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/vue-scrollto.97163b16.js"
+    "/load-demo2/assets/vue-scrollto.c17ab342.js"
   ],
   "\u0000/home/alex/documents/load/load-mvp/frontend/node_modules/.pnpm/vue-scrollto@2.20.0/node_modules/vue-scrollto/vue-scrollto.js?commonjs-module": [
-    "/assets/vue-scrollto.97163b16.js"
+    "/load-demo2/assets/vue-scrollto.c17ab342.js"
   ],
   "node_modules/.pnpm/vue-scrollto@2.20.0/node_modules/vue-scrollto/vue-scrollto.js": [
-    "/assets/vue-scrollto.97163b16.js"
+    "/load-demo2/assets/vue-scrollto.c17ab342.js"
   ],
   "src/components/RealNameField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/profile.33b5796b.js",
-    "/assets/profile.a2f8b2c4.css"
+    "/load-demo2/assets/profile.82eecbe4.js",
+    "/load-demo2/assets/profile.47bde70b.css"
   ],
   "src/components/IbanField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/profile.33b5796b.js",
-    "/assets/profile.a2f8b2c4.css"
+    "/load-demo2/assets/profile.82eecbe4.js",
+    "/load-demo2/assets/profile.47bde70b.css"
   ],
   "src/pages/profile.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/profile.33b5796b.js",
-    "/assets/profile.a2f8b2c4.css"
+    "/load-demo2/assets/profile.82eecbe4.js",
+    "/load-demo2/assets/profile.47bde70b.css"
   ],
-  "src/pages/profile.vue?vue&type=style&index=0&scoped=da01767e&lang.css": [
-    "/assets/profile.33b5796b.js",
-    "/assets/profile.a2f8b2c4.css"
+  "src/pages/profile.vue?vue&type=style&index=0&scoped=9c0bf050&lang.css": [
+    "/load-demo2/assets/profile.82eecbe4.js",
+    "/load-demo2/assets/profile.47bde70b.css"
   ],
   "src/pages/profile.vue": [
-    "/assets/profile.33b5796b.js",
-    "/assets/profile.a2f8b2c4.css"
+    "/load-demo2/assets/profile.82eecbe4.js",
+    "/load-demo2/assets/profile.47bde70b.css"
   ],
   "src/components/PasswordField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/NameField.vue_vue_type_script_setup_true_lang.bf45e95c.js"
+    "/load-demo2/assets/NameField.vue_vue_type_script_setup_true_lang.e140212c.js"
   ],
   "src/components/EmailField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/NameField.vue_vue_type_script_setup_true_lang.bf45e95c.js"
+    "/load-demo2/assets/NameField.vue_vue_type_script_setup_true_lang.e140212c.js"
   ],
   "src/components/NameField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/NameField.vue_vue_type_script_setup_true_lang.bf45e95c.js"
+    "/load-demo2/assets/NameField.vue_vue_type_script_setup_true_lang.e140212c.js"
   ],
   "src/components/InputField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/InputField.vue_vue_type_script_setup_true_lang.351a33a3.js"
+    "/load-demo2/assets/InputField.vue_vue_type_script_setup_true_lang.f465c248.js"
   ],
   "src/pages/signup.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/signup.3a968cdd.js",
-    "/assets/signup.2983ab39.css"
+    "/load-demo2/assets/signup.0a67f684.js",
+    "/load-demo2/assets/signup.d7965f03.css"
   ],
-  "src/pages/signup.vue?vue&type=style&index=0&scoped=be78a359&lang.css": [
-    "/assets/signup.3a968cdd.js",
-    "/assets/signup.2983ab39.css"
+  "src/pages/signup.vue?vue&type=style&index=0&scoped=128330a0&lang.css": [
+    "/load-demo2/assets/signup.0a67f684.js",
+    "/load-demo2/assets/signup.d7965f03.css"
   ],
   "src/pages/signup.vue": [
-    "/assets/signup.3a968cdd.js",
-    "/assets/signup.2983ab39.css"
+    "/load-demo2/assets/signup.0a67f684.js",
+    "/load-demo2/assets/signup.d7965f03.css"
   ],
   "src/components/TransactionRecap.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/transfers.79434eed.js",
-    "/assets/transfers.4e22d273.css"
+    "/load-demo2/assets/transfers.8717710e.js",
+    "/load-demo2/assets/transfers.56ca3986.css"
   ],
   "src/components/SearchField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/transfers.79434eed.js",
-    "/assets/transfers.4e22d273.css"
+    "/load-demo2/assets/transfers.8717710e.js",
+    "/load-demo2/assets/transfers.56ca3986.css"
   ],
   "src/components/UserSelectField.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/transfers.79434eed.js",
-    "/assets/transfers.4e22d273.css"
+    "/load-demo2/assets/transfers.8717710e.js",
+    "/load-demo2/assets/transfers.56ca3986.css"
   ],
   "src/components/UserSelectField.vue?vue&type=style&index=0&scoped=14661eef&lang.css": [
-    "/assets/transfers.79434eed.js",
-    "/assets/transfers.4e22d273.css"
+    "/load-demo2/assets/transfers.8717710e.js",
+    "/load-demo2/assets/transfers.56ca3986.css"
   ],
   "src/components/UserSelectField.vue": [
-    "/assets/transfers.79434eed.js",
-    "/assets/transfers.4e22d273.css"
+    "/load-demo2/assets/transfers.8717710e.js",
+    "/load-demo2/assets/transfers.56ca3986.css"
   ],
   "src/pages/transfers.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/transfers.79434eed.js",
-    "/assets/transfers.4e22d273.css"
+    "/load-demo2/assets/transfers.8717710e.js",
+    "/load-demo2/assets/transfers.56ca3986.css"
   ],
-  "src/pages/transfers.vue?vue&type=style&index=0&scoped=0b05ad65&lang.css": [
-    "/assets/transfers.79434eed.js",
-    "/assets/transfers.4e22d273.css"
+  "src/pages/transfers.vue?vue&type=style&index=0&scoped=a6ccdd45&lang.css": [
+    "/load-demo2/assets/transfers.8717710e.js",
+    "/load-demo2/assets/transfers.56ca3986.css"
   ],
   "src/pages/transfers.vue": [
-    "/assets/transfers.79434eed.js",
-    "/assets/transfers.4e22d273.css"
+    "/load-demo2/assets/transfers.8717710e.js",
+    "/load-demo2/assets/transfers.56ca3986.css"
+  ],
+  "src/pages/b/[braceletUUID].back.vue?vue&type=script&setup=true&lang.ts": [
+    "/load-demo2/assets/_braceletUUID_.back.369773e9.js",
+    "/load-demo2/assets/[braceletUUID].back.7636d7e8.css"
+  ],
+  "src/pages/b/[braceletUUID].back.vue?vue&type=style&index=0&scoped=c6fe2606&lang.css": [
+    "/load-demo2/assets/_braceletUUID_.back.369773e9.js",
+    "/load-demo2/assets/[braceletUUID].back.7636d7e8.css"
+  ],
+  "src/pages/b/[braceletUUID].back.vue": [
+    "/load-demo2/assets/_braceletUUID_.back.369773e9.js",
+    "/load-demo2/assets/[braceletUUID].back.7636d7e8.css"
   ],
   "src/pages/b/[braceletUUID].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_braceletUUID_.8ed0e8b9.js",
-    "/assets/[braceletUUID].bfcff2fb.css"
+    "/load-demo2/assets/_braceletUUID_.560fe817.js",
+    "/load-demo2/assets/[braceletUUID].6219f494.css"
   ],
-  "src/pages/b/[braceletUUID].vue?vue&type=style&index=0&scoped=111d0e07&lang.css": [
-    "/assets/_braceletUUID_.8ed0e8b9.js",
-    "/assets/[braceletUUID].bfcff2fb.css"
+  "src/pages/b/[braceletUUID].vue?vue&type=style&index=0&scoped=ed6a8101&lang.css": [
+    "/load-demo2/assets/_braceletUUID_.560fe817.js",
+    "/load-demo2/assets/[braceletUUID].6219f494.css"
   ],
   "src/pages/b/[braceletUUID].vue": [
-    "/assets/_braceletUUID_.8ed0e8b9.js",
-    "/assets/[braceletUUID].bfcff2fb.css"
-  ],
-  "src/pages/b/grdgfrdshrfsxrfxhg.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/grdgfrdshrfsxrfxhg.e1b165f0.js",
-    "/assets/grdgfrdshrfsxrfxhg.b0a9b634.css"
-  ],
-  "src/pages/b/grdgfrdshrfsxrfxhg.vue?vue&type=style&index=0&scoped=7fe01999&lang.css": [
-    "/assets/grdgfrdshrfsxrfxhg.e1b165f0.js",
-    "/assets/grdgfrdshrfsxrfxhg.b0a9b634.css"
-  ],
-  "src/pages/b/grdgfrdshrfsxrfxhg.vue": [
-    "/assets/grdgfrdshrfsxrfxhg.e1b165f0.js",
-    "/assets/grdgfrdshrfsxrfxhg.b0a9b634.css"
+    "/load-demo2/assets/_braceletUUID_.560fe817.js",
+    "/load-demo2/assets/[braceletUUID].6219f494.css"
   ]
 }
